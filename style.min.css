@@ -241,7 +241,7 @@ main {
 .actionBtn a {
   border-radius: 100%;
   padding: 0.75rem;
-  line-height: 0;
+  /*line-height: 0;*/
 }
 .actionBtn p {
   margin: 0.5rem 0 0;
@@ -451,8 +451,8 @@ footer a {
 
 .bizaddr {
   font-size: 0.8rem;
-  opacity: 0.7;
-  margin-top: 1px !important;
+  opacity: 0.6;
+  margin-top: 0px !important;
 }
 
 
